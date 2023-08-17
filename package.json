@@ -17,6 +17,7 @@
     "devDependencies": {
         "@types/jest": "^29.5.1",
         "@types/node": "16.18.23",
+        "@types/qrcode": "^1.5.1",
         "@typescript-eslint/eslint-plugin": "^5.60.0",
         "@typescript-eslint/parser": "^5.60.0",
         "eslint": "^8.43.0",
@@ -26,5 +27,8 @@
         "ts-jest": "^29.1.0",
         "ts-node": "^10.9.1",
         "typescript": "~5.0.4"
+    },
+    "dependencies": {
+        "qrcode": "^1.5.3"
     }
 }
